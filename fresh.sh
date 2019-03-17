@@ -1,1 +1,3 @@
+df -h
 date
+
