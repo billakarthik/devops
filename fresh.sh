@@ -1,3 +1,2 @@
-df -h
-date
+#!/bin/bash
 sudo touch file{1...5}
